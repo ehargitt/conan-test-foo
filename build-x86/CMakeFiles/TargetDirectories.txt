@@ -1,3 +1,0 @@
-/work/build-x86/CMakeFiles/rebuild_cache.dir
-/work/build-x86/CMakeFiles/edit_cache.dir
-/work/build-x86/CMakeFiles/Foo.dir

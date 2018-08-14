@@ -1,1 +1,0 @@
-/usr/i686-linux-gnu/bin/i686-linux-gnu-ar qc lib/libFoo.a  CMakeFiles/Foo.dir/src/foo.cc.o
